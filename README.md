@@ -1,2 +1,6 @@
 # sitename-ext-generator
-Simple Python Script To Add  Extentions To A Given Domain And Subdomains For Fuzzing 
+Author : Mbzo 
+Simple Python Script To Add Compression's Extentions To A Given Domain And Subdomains For Fuzzing 
+
+TODO : 
+Add Everything's That's Makes Code Better :)
